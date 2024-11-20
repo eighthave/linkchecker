@@ -248,8 +248,10 @@ ignored_schemes_provisional = r"""
 |lbry       # lbry
 |ldaps      # ldaps
 |lid        # lid
+|litecoin   # Litecoin
 |lorawan    # lorawan
 |lpa        # lpa
+|ltclightning # Litecoin lighting
 |lvlt       # lvlt
 |machineProvisioningProgressReporter # Windows Autopilot Modern Device Management status updates
 |magnet     # magnet
